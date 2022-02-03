@@ -6,4 +6,6 @@
 - 👯 I’m looking to collaborate on OpenSource Projects. 
 - 😄 Pronouns: He/His
 
+#### Languages/ Skills
 
+<img align = "left" src="ImagesStack/cplus.png" width = "32"> <img align = "left" src="ImagesStack/swift.png" width = "36"> 
