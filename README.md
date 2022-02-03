@@ -8,4 +8,4 @@
 
 #### Languages/ Skills
 
-<img align = "left" src="ImagesStack/cplus.png" width = "32"> <img align = "left" src="ImagesStack/swift.png" width = "36"> 
+<img align = "left" src="ImagesStack/pycplus.png" height = "100">
