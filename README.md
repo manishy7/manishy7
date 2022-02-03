@@ -8,4 +8,4 @@
 
 #### Languages/ Skills
 
-<img align = "left" src="ImagesStack/pycplus.png" height = "100">
+<img align = "left" src="ImagesStack/pycplus.png" height = "67">
