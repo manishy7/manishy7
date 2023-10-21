@@ -1,7 +1,7 @@
 ### Hi there I am Manish 👋
 
 
-- 🔭 I’m an iOS Developer and an Electronics Engineer.
+- 🔭 I’m a student at King's College London and an iOS Developer.
 - 🌱 I’m currently learning Swift and C++
 - 👯 I’m looking to collaborate on OpenSource Projects. 
 - 😄 Pronouns: He/His
