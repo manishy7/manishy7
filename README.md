@@ -1,7 +1,7 @@
 ### Hi there I am Manish 👋
 
 
-- 🔭 I’m a student at King's College London and an iOS Developer.
+- 🔭 I’m a graduate student at King's College London and an iOS Developer.
 - 🌱 Founded and developed an app [Stemany](https://www.stemany.com/home) that ranked in the top 20 of Apple’s App Store Charts
 - 🧑🏻‍💻 I’m interested in Robotics, AI and Machine Learning. 
 - 😄 Pronouns: He/His
